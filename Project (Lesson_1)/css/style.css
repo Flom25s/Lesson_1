@@ -117,7 +117,7 @@ body{
 }
 .content-bottom-info-link span{
 	padding: 0px 75px 0px 0px;
-	background: url(../img/icons/Button_2.png) right no-repeat;
+	background: url(../img/icons/Button_2.png) left no-repeat;
 }
 /* Объебался когда из макета вырезал стрелочку*/
 
